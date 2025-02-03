@@ -21,7 +21,7 @@ Cercalo is an AI-powered answer engine built using React. It enhances search fun
 ## Installation  
 
 ### Prerequisites  
-- Node.js & npm installed  
+- Node.js,npm, and Vite installed  
 
 ### Steps  
 1. Clone the repository:  
