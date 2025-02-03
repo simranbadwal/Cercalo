@@ -3,6 +3,10 @@
 ## Overview  
 Cercalo is an AI-powered answer engine built using React. It enhances search functionality by leveraging the **Gemini API**, delivering contextually relevant answers while verifying results with websites. The project focuses on **speed, efficiency, and user-friendly interactions**.  
 
+## Demo  
+![Cercalo in Action](cercalogif.gif)  
+
+
 ## Features  
 - **AI-Powered Search**: Uses the Gemini API to provide accurate answers.  
 - **Website Verification**: Ensures credibility by presenting websites to the user in which they can cross-reference sources.  
